@@ -10,7 +10,7 @@ Frontend Web Developer • UI/UX Designer • Digital Marketing Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Responsive+Website+Developer;Learning+React.js;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Responsive+Website+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -22,8 +22,7 @@ Frontend Web Developer • UI/UX Designer • Digital Marketing Enthusiast
 - 🎨 UI/UX Designer using Figma
 - 🌐 Passionate about building responsive and modern websites
 - 📱 Interested in Web Development, UI/UX & Digital Marketing
-- 🌱 Currently learning **React.js**
-- 🚀 Looking for Frontend Developer opportunities
+- Looking for Frontend Developer opportunities
 
 ---
 
@@ -38,21 +37,26 @@ Frontend Web Developer • UI/UX Designer • Digital Marketing Enthusiast
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=bootstrap,React.js,jQuery,"/>
 </p>
 
 ### Design Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+<img src="https://skillicons.dev/icons?i=figma,canva,photoshop"/>
 </p>
 
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=VS Code,Sublime Text,Cursor"/>
 </p>
 
+### Ai Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ChatGPT,Claude,Gemini,Cursor AI,Figma AI,Galileo AI,Visily"/>
+</p>
 ---
 
 ## 💼 Featured Projects
@@ -75,16 +79,6 @@ Weather Forecast Web App using Weather API.
 Laundry App UI/UX Design.
 
 **Tool:** Figma
-
----
-
-### 🪞 Glass Decor Website
-Modern business website for a glass & customized mirror company.
-
----
-
-### 🌐 Web Total
-Digital agency website focused on modern UI and lead generation.
 
 ---
 
@@ -112,7 +106,6 @@ Digital agency website focused on modern UI and lead generation.
 
 ## 🛠️ Currently Learning
 
-- React.js
 - Modern JavaScript (ES6+)
 - REST APIs
 - Git & GitHub Best Practices
@@ -122,7 +115,7 @@ Digital agency website focused on modern UI and lead generation.
 
 ## 📈 2026 Goals
 
-- ✅ Build 15+ Frontend Projects
+- ✅ Build 10+ Frontend Projects
 - ✅ Master React.js
 - ✅ Learn Node.js Basics
 - ✅ Contribute to Open Source
@@ -133,17 +126,14 @@ Digital agency website focused on modern UI and lead generation.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manpreet-kaur1230?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:manpreet.kaur.301209@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 </p>
 
 ---
